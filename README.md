@@ -1,5 +1,5 @@
 # Windows 10 on the Lenovo Chromebook 300e (3rd gen)
-Probably works on other Zork AMD 3015ce chromebooks.
+Probably works on other Picasso / zork AMD 3015ce chromebooks.
 # ONLY WORKS ON EXTERNAL USB DRIVES, EXTERNAL SSD'S...
 # How to install?
 * Enable dev mode (duh)
