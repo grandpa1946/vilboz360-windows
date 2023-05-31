@@ -10,4 +10,14 @@ Probably works on other Zork AMD 3015ce chromebooks.
 * You will boot into opencore, select the windows installer.
 * Install Windows normally
 * Boot into windows and install all the drivers
+# How to get graphics drivers?
+* Goto device manager
+* Click on **Display adapters**
+* Right click **Microsoft basic display adapter**
+* Select **update driver**
+* Click **Let me pick from a list**
+* Click **Have disk**
+* Open the graphics driver directory and select the inf file that begins with "C"
+* Deselect "show compatible hardware"
+
 # Credits to [CoolStar](https://coolstar.org/) for all the drivers and the Efi creator script
