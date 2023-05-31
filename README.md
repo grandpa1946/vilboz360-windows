@@ -19,5 +19,10 @@ Probably works on other Zork AMD 3015ce chromebooks.
 * Click **Have disk**
 * Open the graphics driver directory and select the inf file that begins with "C"
 * Deselect "show compatible hardware"
+* Select **Vega 3 Mobile Graphics**
+* Ignore all warnings and install.
+* Restart
+* After restarting, There is a bug that causes high CPU usage. To fix it, go to C:\Windows\System32 and rename clinfo.exe to clinfo2.exe
+* Restart again and ur done!
 
 # Credits to [CoolStar](https://coolstar.org/) for all the drivers and the Efi creator script
