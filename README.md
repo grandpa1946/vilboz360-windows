@@ -10,3 +10,4 @@ Probably works on other Zork AMD 3015ce chromebooks.
 * You will boot into opencore, select the windows installer.
 * Install Windows normally
 * Boot into windows and install all the drivers
+# Credits to [CoolStar](https://coolstar.org/) for all the drivers and the Efi creator script
