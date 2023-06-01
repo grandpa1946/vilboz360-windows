@@ -11,7 +11,7 @@ Probably works on other Picasso / zork AMD 3015ce chromebooks.
 * Install Windows normally
 * Boot into windows and install all the drivers
 # How to get graphics drivers?
-Download the driver [here](https://driverpack.io/en/devices/video/amd/amd-radeon-tm-vega-3-graphics) (click on the name and download as zip))
+Download the driver [here](https://driverpack.io/en/devices/video/amd/amd-radeon-tm-vega-3-graphics)[or from the official site here](https://www.amd.com/en/support/apu/amd/amd-3000-series-mobile-processors-radeon-graphics/amd-3015e) (click on the name and download as zip))
 * Goto device manager
 * Click on **Display adapters**
 * Right click **Microsoft basic display adapter**
